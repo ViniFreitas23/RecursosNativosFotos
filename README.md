@@ -4,4 +4,4 @@
 
 
 
-Utilizando Recursos Nativos do Android - Projeto criado para o desenvolvimento do conceito e aplicação do recurso nativo Fotos do Android
+Utilizando Recursos Nativos do Android - Projeto criado para o desenvolvimento do conceito e aplicação do recurso nativo Fotos e Camera do Android

@@ -2,4 +2,5 @@
     <string name="app_name">RecursosNativosFotos</string>
     <string name="imagem_select">Imagem a ser selecionada</string>
     <string name="button_select">Selecione uma imagem</string>
+    <string name="take_picture">Tirar uma foto</string>
 </resources>
